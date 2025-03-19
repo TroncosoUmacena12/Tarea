@@ -1,0 +1,18 @@
+Tarea 1 
+https://github.com/TroncosoUmacena12/IMG-Practicas/blob/main/Practica%20de%20Laboratorio/Tarea%20N%C2%B0%201%20Investigacion%20%20Comparacion%20de%20Formatos%20/Comparaci%C3%B3n%20entre%20formatos.pdf
+
+Tarea 2
+https://github.com/TroncosoUmacena12/IMG-Practicas/blob/main/Practica%20de%20Laboratorio/Tarea%20N%C2%B0%202%20Ejercicios%20de%20Logica/01Ejemplo.ipynb
+
+Tarea 3
+https://github.com/TroncosoUmacena12/IMG-Practicas/blob/main/Practica%20de%20Laboratorio/Tarea%20N%C2%B0%203%20Uso%20de%20CV2/02Ejercicio.ipynb
+
+Tarea 4
+https://github.com/TroncosoUmacena12/IMG-Practicas/blob/main/Practica%20de%20Laboratorio/Tarea%20N%C2%B0%204%20Cuadrado%20de%204%20Segmentos/03Ejercicio.ipynb
+
+Tarea 5
+https://github.com/TroncosoUmacena12/IMG-Practicas/blob/main/Practica%20de%20Laboratorio/Tarea%20N%C2%B0%205%20Filtro%20Bayer%20Conversiones/04Ejercicio.ipynb
+
+Tarea 5.1
+https://github.com/TroncosoUmacena12/IMG-Practicas/blob/main/Practica%20de%20Laboratorio/Tarea%20N%C2%B0%205.1%20Investigacion%20de%20Filtro%20Bayer/Investigaci%C3%B3n%20Cient%C3%ADfica%20sobre%20el%20Filtro%20Bayer.pdf
+ 

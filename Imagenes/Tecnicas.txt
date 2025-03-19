@@ -1,0 +1,37 @@
+binaria normal
+binaria compuesta
+
+que es umbral brillo 1 y si es negro 0
+
+Binarios
+convierte una imagen es escala grises
+Segmentacion
+separa objetos del fondo o de otros digitos 
+Deteccion de Bordes
+se utilziza para el umbral
+Eliminacion de ruido 
+
+
+Umbralizacion Global.- Todo imagen de los pixeles 
+Metodos ISODATA  128 saca la media del grupo de pixeles generalmente 
+entre 6 repeticiones, con escala de grises.
+
+Metodo de los dos picos.- El valor mas alto del pixel y el valor mas bajo del pixel
+ISTROGRAMA : 
+
+Metodo 
+
+
+UMBRALIZACION ADAPTATIVA
+Umbralizacion variable.- particion de la iamgen
+
+Umbralizacion variable.- propiedad locales 
+sectores de una imagen con una ventana impar deteccion de lso bordes 
+La media la suma de todos los pixeles k=valor estable 
+
+Las 6 tecnicas
+
+Hacer el 
+
+
+ 
